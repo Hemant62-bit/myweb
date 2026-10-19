@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+pydantic>=2.6.4
+python-dotenv
+pyjwt
+passlib
+python-multipart
+tzdata
+email-validator
